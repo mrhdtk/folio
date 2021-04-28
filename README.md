@@ -1,2 +1,2 @@
 # folio
-creation as l learning environment
+creation as a learning environment
